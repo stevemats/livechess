@@ -13,6 +13,7 @@
     "react-dom": "^16.13.1",
     "react-native-background-audio": "^1.1.4",
     "react-scripts": "3.4.3",
+    "react-sound": "^1.2.0",
     "rxjs": "^6.6.2"
   },
   "scripts": {

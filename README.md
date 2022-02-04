@@ -1,5 +1,7 @@
 # Live chess
 
-![Live Chess App](https://user-images.githubusercontent.com/30528167/152535599-c2d13885-4742-42c2-922e-1ee3f8720896.png)
+![Chess App](https://user-images.githubusercontent.com/30528167/152560841-18b24f47-34e2-42ee-b679-0d62b26cb73c.png)
 
- //to do: add background chill music when playing the game
+ //to do: get a good bg spng for a player to listen when playing
+ //to do: import background song component
+ //to do: concatenate classNames together to fix duplicate props
